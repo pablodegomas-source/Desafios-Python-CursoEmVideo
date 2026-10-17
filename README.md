@@ -15,3 +15,4 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **005** | Ler um número inteiro e mostrar na tela o seu sucessor e seu antecessor. | Operadores Aritméticos | [Ver Código](./Mundo1/Desafio005.py) |
 | **006** | Criar um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada. | Operações Matemáticas | [Ver Código](./Mundo1/Desafio006.py) |
 | **007** | Desenvolver um programa que leia as duas notas de um aluno, calcule e mostre a sua média. | Ordem de Precedência | [Ver Código](./Mundo1/Desafio007.py) |
+| **008** | Desenvolver um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros. | Conversão de Medidas | [Ver Código](./Mundo1/Desafio008.py) |
