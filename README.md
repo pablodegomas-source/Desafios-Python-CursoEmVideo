@@ -19,3 +19,4 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **009** | Ler um número inteiro qualquer e mostrar na tela a sua tabuada de 1 a 10. | Estruturas de Formatação / Operadores | [Ver Código](./Mundo1/Desafio009.py) |
 | **010** | Desenvolver um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. | Conversão de Moedas e Tipos Flutuantes (`float`) | [Ver Código](./Mundo1/Desafio010.py) |
 | **011** | Calcular a área de uma parede e a quantidade de tinta necessária para pintá-la. | Operadores e Expressões Matemáticas | [Ver Código](./Mundo1/Desafio011.py) |
+| **012** | Ler o preço de um produto e exibir o novo valor aplicando 5% de desconto. | Porcentagem e Operadores Aritméticos | [Ver Código](./Mundo1/Desafio012.py) |
