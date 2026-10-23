@@ -21,4 +21,6 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **011** | Calcular a área de uma parede e a quantidade de tinta necessária para pintá-la. | Operadores e Expressões Matemáticas | [Ver Código](./Mundo1/Desafio011.py) |
 | **012** | Ler o preço de um produto e exibir o novo valor aplicando 5% de desconto. | Porcentagem e Operadores Aritméticos | [Ver Código](./Mundo1/Desafio012.py) |
 | **013** | Ler o salário de um funcionário e mostrar seu novo salário com 15% de aumento. | Cálculos de Porcentagem / Operadores | [Ver Código](./Mundo1/Desafio013.py) |
+| **014** | Converter uma temperatura digitada em graus Celsius para graus Fahrenheit. | Conversão de Unidades e Fórmulas Matemáticas | [Ver Código](./Mundo1/Desafio014.py) |
+
 
