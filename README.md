@@ -23,6 +23,8 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **013** | Ler o salário de um funcionário e mostrar seu novo salário com 15% de aumento. | Cálculos de Porcentagem / Operadores | [Ver Código](./Mundo1/Desafio013.py) |
 | **014** | Converter uma temperatura digitada em graus Celsius para graus Fahrenheit. | Conversão de Unidades e Fórmulas Matemáticas | [Ver Código](./Mundo1/Desafio014.py) |
 | **015** | Calcular o preço total do aluguel de um carro com base nos dias alugados e Km rodados. | Operadores e Formatação de Valores (R$) | [Ver Código](./Mundo1/Desafio015.py) |
+| **016** | Ler um número real qualquer e mostrar na tela a sua porção inteira. | Importação de Módulos (Biblioteca `math`) | [Ver Código](./Mundo1/Desafio016.py) |
+
 
 
 
