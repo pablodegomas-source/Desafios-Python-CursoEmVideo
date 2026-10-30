@@ -25,6 +25,7 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **015** | Calcular o preço total do aluguel de um carro com base nos dias alugados e Km rodados. | Operadores e Formatação de Valores (R$) | [Ver Código](./Mundo1/Desafio015.py) |
 | **016** | Ler um número real qualquer e mostrar na tela a sua porção inteira. | Importação de Módulos (Biblioteca `math`) | [Ver Código](./Mundo1/Desafio016.py) |
 | **017** | Ler os catetos de um triângulo retângulo e calcular o comprimento da hipotenusa. | Importação de Módulos (`math.sqrt`) | [Ver Código](./Mundo1/Desafio017.py) |
+| **018** | Ler um ângulo qualquer e mostrar na tela o valor do seno, cosseno e tangente. | Importação de Módulos (`math`) e Trigonometria | [Ver Código](./Mundo1/Desafio018.py) |
 
 
 
