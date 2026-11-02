@@ -28,7 +28,7 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **018** | Ler um ângulo qualquer e mostrar na tela o valor do seno, cosseno e tangente. | Importação de Módulos (`math`) e Trigonometria | [Ver Código](./Mundo1/Desafio018.py) |
 | **019** | Sortear um aluno entre quatro opções lendo os nomes digitados. | Utilização de Módulos (`random.choice`) | [Ver Código](./Mundo1/Desafio019.py) |
 | **020** | Ler o nome de quatro alunos e sortear a ordem de apresentação de um trabalho. | Manipulação de Listas e Módulo `random` | [Ver Código](./Mundo1/Desafio020.py) |
-| **021** | Analisar um nome completo mostrando alterações de maiúsculas/minúsculas e contagem de letras. | Manipulação de Strings (`.upper()`, `.lower()`, `.strip()`, `.len()`, `.replace()`) | [Ver Código](./Mundo1/Desafio022.py) |
+| **021** | Analisar um nome completo mostrando alterações de maiúsculas/minúsculas e contagem de letras. | Manipulação de Strings (`.upper()`, `.lower()`, `.strip()`, `.replace()`) | [Ver Código](./Mundo1/Desafio022.py) |
 
 
 
