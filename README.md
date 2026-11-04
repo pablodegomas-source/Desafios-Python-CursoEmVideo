@@ -28,11 +28,8 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **018** | Ler um ângulo qualquer e mostrar na tela o valor do seno, cosseno e tangente. | Importação de Módulos (`math`) e Trigonometria | [Ver Código](./Mundo1/Desafio018.py) |
 | **019** | Sortear um aluno entre quatro opções lendo os nomes digitados. | Utilização de Módulos (`random.choice`) | [Ver Código](./Mundo1/Desafio019.py) |
 | **020** | Ler o nome de quatro alunos e sortear a ordem de apresentação de um trabalho. | Manipulação de Listas e Módulo `random` | [Ver Código](./Mundo1/Desafio020.py) |
-| **021** | Analisar um nome completo mostrando alterações de maiúsculas/minúsculas e contagem de letras. | Manipulação de Strings (`.upper()`, `.lower()`, `.split()`, `.replace()`) | [Ver Código](./Mundo1/Desafio021.py) |
-| **022** | Ler um número de 0 a 9999 e exibir os dígitos separados utilizando fatiamento de strings de trás para frente. | Manipulação de Strings (Índices Negativos) | [Ver Código](./Mundo1/Desafio022.py) |
-
-
-
-
+| **021** | Tocar o áudio de um arquivo MP3. | Importação de Módulos (`pygame`) | *Desafio pulado (limitação do celular)* |
+| **022** | Analisar um nome completo mostrando alterações de maiúsculas/minúsculas e contagem de letras. | Manipulação de Strings (`.upper()`, `.lower()`, `.split()`, `.replace()`) | [Ver Código](./Mundo1/Desafio022.py) |
+| **023** | Ler um número de 0 a 9999 e exibir os dígitos separados utilizando fatiamento de strings de trás para frente. | Manipulação de Strings (Índices Negativos) | [Ver Código](./Mundo1/Desafio023.py) |
 
 
