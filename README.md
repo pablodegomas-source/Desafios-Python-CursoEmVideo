@@ -31,5 +31,7 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **021** | Tocar o áudio de um arquivo MP3. | Importação de Módulos (`pygame`) | *Desafio pulado (limitação do celular)* |
 | **022** | Analisar um nome completo mostrando alterações de maiúsculas/minúsculas e contagem de letras. | Manipulação de Strings (`.upper()`, `.lower()`, `.split()`, `.replace()`) | [Ver Código](./Mundo1/Desafio022.py) |
 | **023** | Ler um número de 0 a 9999 e exibir os dígitos separados utilizando fatiamento de strings de trás para frente. | Manipulação de Strings (Índices Negativos) | [Ver Código](./Mundo1/Desafio023.py) |
+| **024** | Ler o nome de uma cidade e verificar se ela começa ou não com o nome "SANTO". | Manipulação de Strings (`.strip()`, `.upper()`) | [Ver Código](./Mundo1/Desafio024.py) |
+
 
 
