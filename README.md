@@ -33,7 +33,7 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **023** | Ler um número de 0 a 9999 e exibir os dígitos separados utilizando fatiamento de strings de trás para frente. | Manipulação de Strings (Índices Negativos) | [Ver Código](./Mundo1/Desafio023.py) |
 | **024** | Ler o nome de uma cidade e verificar se ela começa ou não com o nome "SANTO". | Manipulação de Strings (`.strip()`, `.upper()`) | [Ver Código](./Mundo1/Desafio024.py) |
 | **025** | Ler o nome de uma pessoa e verificar se ela possui "SILVA" no nome completo. | Manipulação de Strings e Operador `in` | [Ver Código](./Mundo1/Desafio025.py) |
-
+| **026** | Analisar uma frase para encontrar a quantidade e as posições (primeira e última) da letra "A". | Métodos de String (`.count`, `.find`, `.rfind`) | [Ver Código](./Mundo1/Desafio026.py) |
 
 
 
