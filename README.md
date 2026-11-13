@@ -35,6 +35,5 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **025** | Ler o nome de uma pessoa e verificar se ela possui "SILVA" no nome completo. | Manipulação de Strings e Operador `in` | [Ver Código](./Mundo1/Desafio025.py) |
 | **026** | Analisar uma frase para encontrar a quantidade e as posições (primeira e última) da letra "A". | Métodos de String (`.count`, `.find`, `.rfind`) | [Ver Código](./Mundo1/Desafio026.py) |
 | **027** | Ler o nome completo de uma pessoa e exibir separadamente o primeiro e o último nome. | Fatiamento de Strings e Listas (`.split`) | [Ver Código](./Mundo1/Desafio027.py) |
-
-
+| **028** | Desenvolver um jogo onde o computador sorteia um número (0 a 5) e o usuário tenta adivinhar. | Condições (`if/else`) e Módulos (`random`) | [Ver Código](./Mundo1/Desafio028.py) |
 
