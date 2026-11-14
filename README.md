@@ -36,4 +36,4 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **026** | Analisar uma frase para encontrar a quantidade e as posições (primeira e última) da letra "A". | Métodos de String (`.count`, `.find`, `.rfind`) | [Ver Código](./Mundo1/Desafio026.py) |
 | **027** | Ler o nome completo de uma pessoa e exibir separadamente o primeiro e o último nome. | Fatiamento de Strings e Listas (`.split`) | [Ver Código](./Mundo1/Desafio027.py) |
 | **028** | Desenvolver um jogo onde o computador sorteia um número (0 a 5) e o usuário tenta adivinhar. | Condições (`if/else`) e Módulos (`random`) | [Ver Código](./Mundo1/Desafio028.py) |
-
+| **029** | Ler a velocidade de um carro, verificar se ultrapassou 80Km/h e calcular o valor da multa. | Condição Simples (`if`) e Regras de Negócio | [Ver Código](./Mundo1/Desafio029.py) |
