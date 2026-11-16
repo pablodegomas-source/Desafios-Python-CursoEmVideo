@@ -38,3 +38,5 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **028** | Desenvolver um jogo onde o computador sorteia um número (0 a 5) e o usuário tenta adivinhar. | Condições (`if/else`) e Módulos (`random`) | [Ver Código](./Mundo1/Desafio028.py) |
 | **029** | Ler a velocidade de um carro, verificar se ultrapassou 80Km/h e calcular o valor da multa. | Condição Simples (`if`) e Regras de Negócio | [Ver Código](./Mundo1/Desafio029.py) |
 | **030** | Ler um número inteiro qualquer e verificar se ele é PAR ou ÍMPAR. | Operador de Módulo (`%`) e Condições (`if/else`) | [Ver Código](./Mundo1/Desafio030.py) |
+| **031** | Calcular o preço de uma passagem com base na distância da viagem (até 200Km ou mais). | Condições Compostas (`if/else`) e Precificação | [Ver Código](./Mundo1/Desafio031.py) |
+
