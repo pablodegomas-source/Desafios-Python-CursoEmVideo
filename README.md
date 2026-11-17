@@ -39,6 +39,5 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **029** | Ler a velocidade de um carro, verificar se ultrapassou 80Km/h e calcular o valor da multa. | Condição Simples (`if`) e Regras de Negócio | [Ver Código](./Mundo1/Desafio029.py) |
 | **030** | Ler um número inteiro qualquer e verificar se ele é PAR ou ÍMPAR. | Operador de Módulo (`%`) e Condições (`if/else`) | [Ver Código](./Mundo1/Desafio030.py) |
 | **031** | Calcular o preço de uma passagem com base na distância da viagem (até 200Km ou mais). | Condições Compostas (`if/else`) e Precificação | [Ver Código](./Mundo1/Desafio031.py) |
-
 | **032** | Ler um ano qualquer (ou pegar o ano atual do sistema) e verificar se ele é bissexto. | Operadores Lógicos (`and`, `or`) e Módulo `time` | [Ver Código](./Mundo1/Desafio032.py) |
 
