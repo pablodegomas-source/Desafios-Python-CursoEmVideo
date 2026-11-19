@@ -41,4 +41,5 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **031** | Calcular o preço de uma passagem com base na distância da viagem (até 200Km ou mais). | Condições Compostas (`if/else`) e Precificação | [Ver Código](./Mundo1/Desafio031.py) |
 | **032** | Ler um ano qualquer (ou pegar o ano atual do sistema) e verificar se ele é bissexto. | Operadores Lógicos (`and`, `or`) e Módulo `time` | [Ver Código](./Mundo1/Desafio032.py) |
 | **033** | Ler três números inteiros e identificar qual é o maior e qual é o menor valor entre eles. | Estruturas Condicionais (`if`) e Lógica de Comparação | [Ver Código](./Mundo1/Desafio033.py) |
+| **034** | Calcular o aumento salarial de um funcionário com base em faixas de valor (10% ou 15%). | Condições Compostas (`if/elif`) e Cálculo Percentual | [Ver Código](./Mundo1/Desafio034.py) |
 
