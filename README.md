@@ -43,4 +43,12 @@ Aqui estão os meus primeiros passos na linguagem, dominando conceitos de entrad
 | **033** | Ler três números inteiros e identificar qual é o maior e qual é o menor valor entre eles. | Estruturas Condicionais (`if`) e Lógica de Comparação | [Ver Código](./Mundo1/Desafio033.py) |
 | **034** | Calcular o aumento salarial de um funcionário com base em faixas de valor (10% ou 15%). | Condições Compostas (`if/elif`) e Cálculo Percentual | [Ver Código](./Mundo1/Desafio034.py) |
 | **035** | Ler o comprimento de três retas e verificar se elas podem formar um triângulo. | Operadores Lógicos (`and`) e Validação Matemática | [Ver Código](./Mundo1/Desafio035.py) |
+---
 
+## 🔥 Mundo 2: Estruturas de Controle
+
+Neste módulo, avanço na lógica de programação dominando condições aninhadas (`elif`) e estruturas de repetição (`for` e `while`).
+
+| Desafio | Enunciado / Objetivo | Conceito Chave | Código Fonte |
+| :---: | :--- | :--- | :---: |
+| **036** | Aprovar ou negar um empréstimo bancário para a compra de uma casa com base no salário. | Condições Aninhadas (`if`, `elif`, `else`) | [Ver Código](./Mundo2/Desafio036.py) |
