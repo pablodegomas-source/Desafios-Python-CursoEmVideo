@@ -52,4 +52,4 @@ Neste módulo, avanço na lógica de programação dominando condições aninhad
 | :---: | :--- | :--- | :---: |
 | **036** | Aprovar ou negar um empréstimo bancário para a compra de uma casa com base no salário. | Condições Aninhadas (`if`, `elif`, `else`) | [Ver Código](./Mundo2/Desafio036.py) |
 | **037** | Conversor de Bases Numéricas (Binário, Octal e Hexadecimal). | Condições Aninhadas (`elif`) e Bases Numéricas | *Pendente (Revisão futura)* |
-
+| **038** | Ler dois números inteiros e compará-los (maior, menor ou iguais). | Condições Aninhadas (`if`, `elif`, `else`) | [Ver Código](./Mundo2/Desafio038.py) |
