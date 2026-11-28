@@ -55,3 +55,4 @@ Neste módulo, avanço na lógica de programação dominando condições aninhad
 | **038** | Ler dois números inteiros e compará-los (maior, menor ou iguais). | Condições Aninhadas (`if`, `elif`, `else`) | [Ver Código](./Mundo2/Desafio038.py) |
 | **039** | Ler o ano de nascimento e informar a situação do alistamento militar (falta, hora exata ou passou). | Condições Aninhadas (`elif`) e Módulo `datetime` | [Ver Código](./Mundo2/Desafio039.py) |
 | **040** | Calcular a média de um aluno e classificar sua situação (Reprovado, Recuperação ou Aprovado). | Condições Aninhadas (`elif`) e Intervalos Lógicos | [Ver Código](./Mundo2/Desafio040.py) |
+| **041** | Ler o ano de nascimento de um atleta e classificá-lo em categorias (Mirim a Master). | Condições Aninhadas (`elif`) e Módulo `datetime` | [Ver Código](./Mundo2/Desafio041.py) |
